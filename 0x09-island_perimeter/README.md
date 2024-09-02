@@ -42,4 +42,8 @@ Python Lists: Explains how to create, access, and manipulate lists in Python, wh
 
 Python 2D arrays and lists
 
+## More insights
+
+[video](https://www.youtube.com/watch?v=fFgEM6CMQc4)
+
 # Happy Smart Coding 💻
